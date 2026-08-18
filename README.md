@@ -4,8 +4,6 @@ Full Stack E-Commerce platform. Allows users to manage store inventory and displ
 
 Note: this is a demo version, so certain features (user accounts, checkout flow, etc.) haven't been implemented. 
 
-[Live Demo](https://storeify.netlify.app/) (server might take a minute to start)
-
 [Front-End Repo](https://github.com/saidwrick/storeify)
 
 [Back-End Repo](https://github.com/saidwrick/storeify-back-end)
